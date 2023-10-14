@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart 
+sqlalchemy 
+jinja2
+motor #mongodb 
+passlib
+bcrypt
+python-jose #Oauth
